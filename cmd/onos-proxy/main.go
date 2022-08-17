@@ -17,8 +17,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/onosproject/onos-lib-go/pkg/logging"
-	"github.com/onosproject/onos-proxy/pkg/manager"
+	"github.com/wangxn2015/onos-lib-go/pkg/logging"
+	"github.com/wangxn2015/onos-proxy/pkg/manager"
 	"os"
 	"os/signal"
 	"runtime"
